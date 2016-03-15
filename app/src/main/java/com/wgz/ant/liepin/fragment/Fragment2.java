@@ -32,4 +32,9 @@ public class Fragment2 extends Fragment {
         mRecyclerView = (RecyclerView) view.findViewById(R.id.id_zhiwei_rview);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
     }
+    private void initData(){
+
+
+
+    }
 }
